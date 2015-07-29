@@ -1,0 +1,68 @@
+body {
+/*background-color: red;*/
+background-image: url('../image/stars.gif');
+
+}
+
+#section_1 {
+	font-size: 36px;
+	background-color: transparent;
+	color: white;
+    font-family: sans-serif;
+    text-align: center;
+    width: 500px;
+    height: 85px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+#section_2{
+    font-size: 20px;
+	background-color: transparent;
+	color: white;
+    font-family: sans-serif;
+    text-align: center;
+    width: 1000px;
+    height: 75px;
+    margin: 0 auto;
+}
+#section_3{
+    font-size: 20px;
+	background-color: transparent;
+	color: white;
+    font-family: sans-serif;
+    text-align: center;
+    width: 1000px;
+    height: 25px;
+    margin: 0 auto;
+}
+#ball{
+	z-index: 10;
+	float: left;
+}
+
+#ball img {
+	width: 150px;
+	height: 150px;
+	margin-top: 0px;
+    margin-left: 180px;
+}
+#ball2 img{
+    width: 150px;
+    height: 150px;
+    margin-top: 0px;
+    margin-right: 180px;
+}
+#ball2{
+	z-index: 10;
+	float:right;
+}
+nav ul li 
+    {display: inline-block;
+        font: Arial;
+        font-size:25px;
+        font-color:white;
+        
+}
+a{
+    color: white;
+}
